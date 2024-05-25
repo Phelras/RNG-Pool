@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RNG-Pool/static/css/main.1b4e648c.css",
+    "main.js": "/RNG-Pool/static/js/main.f115bb1a.js",
+    "index.html": "/RNG-Pool/index.html",
+    "main.1b4e648c.css.map": "/RNG-Pool/static/css/main.1b4e648c.css.map",
+    "main.f115bb1a.js.map": "/RNG-Pool/static/js/main.f115bb1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b4e648c.css",
+    "static/js/main.f115bb1a.js"
+  ]
+}
